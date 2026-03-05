@@ -1,0 +1,6 @@
+git clone https://github.com/kandimallachaithanya474-ship-it/student-leacrning-course-platform.git/.gitkeep
+cd student student-learning-course-platform
+git checkout -M.Shirisha
+git add . 
+git commit -m "initial commit"
+git push origin Shirisha
